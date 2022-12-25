@@ -15,4 +15,4 @@ local Manager_1 = {
 
 };
 
-table.insert(MFManager.templates, patrick_1);
+table.insert(MFManager.templates, Manager_1);
