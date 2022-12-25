@@ -1,0 +1,6 @@
+version=1
+id=2906860208
+title=TestQuest2
+description=This time, a mod that focuses on a Quest which doesn't use (or, tries to not use) a Mannequin NPC!
+tags=Build 41
+visibility=friendsOnly
