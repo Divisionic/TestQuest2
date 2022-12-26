@@ -10,7 +10,7 @@ local Manager_1 = {
         { "Shoes_Random", 1 },
     },
      haircut = { "Fabian", {0.65, 0.64, 0.62} },
-     name = "patrick_normal",
+     name = "manager_normal",
      script = "Base.MaleFolk"
 
 };
