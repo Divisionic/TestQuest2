@@ -1,0 +1,14 @@
+#name Manager|The Manager
+#set_stat Manager|reputation|0
+
+#desc Name: Manager
+#desc_append Age: Unknown
+
+#is_alive Manager,true
+    #desc_append Status: Alive
+    #jump after_status
+#desc_append Status: Deceased
+
+*after_status
+#desc_append The Manager just sits near the Billboard, and whenever I ask him something, he just directs me to the Billboard next to him.
+#exit
