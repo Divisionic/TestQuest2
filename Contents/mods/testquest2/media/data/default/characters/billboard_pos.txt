@@ -1,0 +1,2 @@
+#is_flag th_intro,false
+#npc_create Billboard|
